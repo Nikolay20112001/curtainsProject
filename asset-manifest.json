@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/curtainsProject/static/css/main.d9ed6933.css",
+    "main.js": "/curtainsProject/static/js/main.a4f765e2.js",
+    "static/js/453.2c89c1e2.chunk.js": "/curtainsProject/static/js/453.2c89c1e2.chunk.js",
+    "static/media/photo2.png": "/curtainsProject/static/media/photo2.65425d301577ead07940.png",
+    "static/media/tradechoice-linen-white-Photoroom.png": "/curtainsProject/static/media/tradechoice-linen-white-Photoroom.f899fa489a8f10a54fb5.png",
+    "static/media/Manrope.ttf": "/curtainsProject/static/media/Manrope.e08eda3003b96222039b.ttf",
+    "index.html": "/curtainsProject/index.html",
+    "main.d9ed6933.css.map": "/curtainsProject/static/css/main.d9ed6933.css.map",
+    "main.a4f765e2.js.map": "/curtainsProject/static/js/main.a4f765e2.js.map",
+    "453.2c89c1e2.chunk.js.map": "/curtainsProject/static/js/453.2c89c1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ed6933.css",
+    "static/js/main.a4f765e2.js"
+  ]
+}
